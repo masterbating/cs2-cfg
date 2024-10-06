@@ -1,3 +1,4 @@
-# cs2-cfg steamcommunity.com/id/icd
+# steamcommunity.com/id/icd CS2 AUTOEXEC.CFG
 
- Counter-Strike Global Offensive\game\csgo\
+Directory: 
+Counter-Strike Global Offensive\game\csgo\
